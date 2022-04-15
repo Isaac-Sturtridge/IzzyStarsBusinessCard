@@ -1,5 +1,11 @@
+import React from "react"
+
 export default function Navbar(){
     return (
-        <h1>Navbar goes here</h1>
+        <nav>
+            <img src="../images/neptune.jpg" />
+            <h3>Planet Facts</h3>
+            <h4>React Course - Project 1</h4>
+        </nav>
     )
 }
