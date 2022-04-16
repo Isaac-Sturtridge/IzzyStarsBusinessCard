@@ -1,1 +1,3 @@
-This is a project based around playing with the React framework in a local environment to create a basic page. Unlikely to develop into anything further.
+This is a Business Card based on my internet identity Izzy Stars.
+
+Built using the React framework, but primarily just a static webpage built in CSS.
