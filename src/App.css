@@ -52,16 +52,31 @@ main {
   letter-spacing: -0.05em;
 }
 
-.main--facts {
+.main--about {
   margin-top: 46px;
 }
 
-.main--facts > li {
+.main--about > li {
   line-height: 19px;
   padding-block: 10px;
 }
 
-.main--facts> li::marker {
-  color: #61DAFB;
+.main--about > li::marker {
+  color: #31c738;
   font-size: 1.4rem;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  border: 10px solid red;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
 }
